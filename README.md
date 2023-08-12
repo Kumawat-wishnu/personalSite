@@ -1,2 +1,2 @@
 # personalSite
-it is personal site containing the brief description of the skills a me,
+It is a personal site containing a brief description of my skills,
